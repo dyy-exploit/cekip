@@ -38,7 +38,7 @@ __logo__ = """
 %s         ╦ ┌─┐  ╔═╗┌┬┐┌┬┐┬─┐┌─┐┌─┐┌─┐
 %s         ║ ├─┘  ╠═╣ ││ ││├┬┘├┤ └─┐└─┐
 %s         ╩ ┴    ╩ ╩─┴┘─┴┘┴└─└─┘└─┘└─┘
-       %s•%s•%s• %sxdy0d4y - Admin - Root %s•%s•%s•
+       %s•%s•%s• %sdyy-exploit - Admin - Root %s•%s•%s•
 """%(O,O,O,M,K,H,P,M,K,H)
 
 def ___main___():
